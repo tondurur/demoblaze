@@ -1,4 +1,7 @@
+   **DEMOBLAZE**
+   
  Test Automation Framework Using Java Selenium
+ 
 ** Introduction**
 This project is a Test Automation Framework built using Java and Selenium WebDriver. It is designed to be scalable, maintainable, and extendable, allowing for future enhancements. The framework automates UI test cases for DemoBlaze and includes logging, reporting, and error handling to ensure robust test execution.
 
